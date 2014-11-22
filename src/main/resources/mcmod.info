@@ -1,0 +1,21 @@
+[
+{
+  "modid": "VykorMod",
+  "name": "VykorMod",
+  "description": "My Mod of stuffs",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "vykor"
+  ],
+  "credits": "Pahimar learns me",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

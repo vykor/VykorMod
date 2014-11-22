@@ -1,0 +1,13 @@
+# Keys
+keys.vykormod.category=VykorMod
+keys.vykormod.charge=Charge
+keys.vykormod.release=Release
+
+# Creative Tabs
+itemGroup.vykormod=VykorMod
+
+# Items
+item.vykormod:mapleLeaf.name=Maple Leaf of Awesomeness
+
+#Blocks
+tile.vykormod:flag.name=Canadian Flag of Awesomeness
